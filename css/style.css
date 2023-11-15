@@ -24,6 +24,12 @@ body{
     justify-content: center;
     
 }
+p{
+    font-family: 'Netflix sans';
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
 .filme{
     width: 200px;
     height: 300px;
