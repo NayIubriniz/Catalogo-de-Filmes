@@ -1,8 +1,9 @@
+
 body{
+    background-image: url(/img/brain\ background.jpg);
     margin: 0px;
     padding: 0px;
     width: 100%;
-    background-image: url(/Catalogo-de-Filmes/img/brain\ background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -11,6 +12,7 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+
 .container{
     width: 100%;
 }
